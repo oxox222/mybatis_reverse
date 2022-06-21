@@ -12,7 +12,7 @@
     <properties>
         <project.bulid.sourceEncoding>UTF-8</project.bulid.sourceEncoding>
         <mapper.version>3.4.4</mapper.version>
-        <mysql.version>6.0.6</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
     </properties>
 
     <dependencies>
