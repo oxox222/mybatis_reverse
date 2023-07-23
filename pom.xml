@@ -11,7 +11,7 @@
     <!--  设置代码编码格式为utf-8  -->
     <properties>
         <project.bulid.sourceEncoding>UTF-8</project.bulid.sourceEncoding>
-        <mapper.version>3.4.4</mapper.version>
+        <mapper.version>3.5.6</mapper.version>
         <mysql.version>6.0.6</mysql.version>
     </properties>
 
